@@ -1,4 +1,4 @@
-# Abduls's REPO 
+# Abdul's REPO 
 
 [LINK TO API](http://www.doc.gold.ac.uk/usr/168/)
 
